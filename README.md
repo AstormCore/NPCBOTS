@@ -1,9 +1,5 @@
-# NPCBots - Herramientas para [trickerer/Trinity-Bots](https://github.com/trickerer/Trinity-Bots)
+# NPCBots - Herramientas para NPC Bots
 NPCBots es un complemento para NPCBots para TrinityCore y AzerothCore 3.3.5, Permite el acceso rápido a varios comandos para bots.
-
-<img src="https://github.com/NetherstormX/NetherBot/assets/94380113/14ac38c8-ccbb-4622-b802-044f619fe22d" width=30% height=30%> <img src="https://user-images.githubusercontent.com/94380113/216856945-ae4b213e-1b74-4bab-ab78-494f5ad52c4b.png" width=60% height=60%>
-
-
 
 ## Características
 - Interfaz UI cómoda y fácil de usar
