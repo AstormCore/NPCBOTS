@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: NPC BOTS
+## Notes: NPCBots - herramientas npcbot
+## Author: SkyNet
+## Version: 1.0
+## SavedVariables: NpcbotsDB
+
+locale.lua
+locale\esES.lua
+locale\zhTW.lua
+locale\itIT.lua
+locale\grGR.lua
+locale\frFR.lua
+locale\enUS.lua
+locale\zhCN.lua
+
+npcbots.lua
