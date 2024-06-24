@@ -2,7 +2,7 @@
 ## Title: NPC BOTS
 ## Notes: NPCBots - herramientas npcbot
 ## Author: SkyNet
-## Version: 1.0
+## Version: 1.1
 ## SavedVariables: NpcbotsDB
 
 locale.lua
