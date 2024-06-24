@@ -1,5 +1,5 @@
-# NPCBots - Herramientas para NPC Bots
-NPCBots es un complemento para NPCBots para TrinityCore y AzerothCore 3.3.5, Permite el acceso rápido a varios comandos para bots.
+# NPCBots - Herramientas
+NPCBots es un complemento para el Módulo NPCBots para TrinityCore y AzerothCore, por el momento solo está disponible para WoW 3.3.5, Este completo permite el acceso rápido a varios comandos para bots.
 
 ## Características
 - Interfaz UI cómoda y fácil de usar
@@ -8,6 +8,12 @@ NPCBots es un complemento para NPCBots para TrinityCore y AzerothCore 3.3.5, Per
   - Buscar información sobre bots.
   - Seguir, detenerse, detenerse, ajustar la distancia de seguimiento.
   - Marcos de incursión, soporte local diferente
+  
+## Idiomas
+- esES     - grGR    -zhTW
+- enUS    - itIT
+- frFR      - zhCN
+
 ## Instalación
 1. Descarga la última versión del complemento en la sesión de release.
 2. Extrae el archivo comprimido en la carpeta `Interface/Addons` de su directorio del juego
